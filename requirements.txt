@@ -1,0 +1,6 @@
+tk
+Pillow
+pyttsx3
+SpeechRecognition
+wikipedia
+pygame
